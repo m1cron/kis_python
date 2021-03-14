@@ -9,7 +9,7 @@ def func2(x):
 def func3(x):
     return math.log((x**6)) - x + 20
 
-def f4(x):
+def func4(x):
     return ((27*(x**5) + 6*(x**6))/83) - 7*(x**4)
 
 def f12(x):
